@@ -1,6 +1,6 @@
 ﻿
 
-## 🗓 Tuần 1 – UI, State & Navigation cốt lõi
+## 🗓 Tuần 7 – UI, State & Navigation cốt lõi
 
 ### 🧱 Dự án 1: Ứng dụng Hồ sơ cá nhân
 **Mục tiêu:** Học layout cơ bản và UI đáp ứng (responsive).
@@ -9,6 +9,9 @@
 * `Column`, `ListTile`, `CircleAvatar`, `Card`
 * Layout đáp ứng, nút chuyển đổi chế độ tối (dark mode)
 **Kết quả:** Một ứng dụng portfolio cá nhân gọn gàng, đáp ứng.
+
+![](screenshot/p1.1.png)
+![](screenshot/p1.2.png)
 
 ---
 
@@ -52,7 +55,7 @@
 
 ---
 
-## 🗓 Tuần 2 – Networking, Persistence & Integration
+## 🗓 Tuần 8 – Networking, Persistence & Integration
 
 ### 🌦 Dự án 6: Ứng dụng Thời tiết
 **Mục tiêu:** Lấy và hiển thị dữ liệu thời tiết trực tiếp.
