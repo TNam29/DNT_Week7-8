@@ -11,8 +11,8 @@
 **Kết quả:** Một ứng dụng portfolio cá nhân gọn gàng, đáp ứng.
 
 <p align="center">
-  <img src="image/p1.1.png" width="100"/>
-  <img src="image/p1.2.png" width="100"/>
+  <img src="image/p1.1.png" width="600"/>
+  <img src="image/p1.2.png" width="600"/>
 </p>
 
 
