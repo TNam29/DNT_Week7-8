@@ -10,7 +10,11 @@
 * Layout đáp ứng, nút chuyển đổi chế độ tối (dark mode)
 **Kết quả:** Một ứng dụng portfolio cá nhân gọn gàng, đáp ứng.
 
-![](image/p1.1.png) ![](image/p1.2.png)
+<p align="center">
+  <img src="image/p1.1.png" width="100"/>
+  <img src="image/p1.2.png" width="100"/>
+</p>
+
 
 ---
 
