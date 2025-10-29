@@ -10,8 +10,8 @@
 * Layout đáp ứng, nút chuyển đổi chế độ tối (dark mode)
 **Kết quả:** Một ứng dụng portfolio cá nhân gọn gàng, đáp ứng.
 
-![](screenshot/p1.1.png)
-![](screenshot/p1.2.png)
+![](image/p1.1.png)
+![](image/p1.2.png)
 
 ---
 
