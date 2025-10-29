@@ -26,6 +26,9 @@
 * `setState()` để quản lý state
 **Kết quả:** Ứng dụng danh sách việc cần làm có khả năng hoạt động ngoại tuyến.
 
+<p align="center">
+  <img src="image/p2.png" width="400"/>
+</p>
 ---
 
 ### 🧭 Dự án 3: Ứng dụng Đọc tin tức
@@ -36,6 +39,9 @@
 * Xử lý lỗi và chỉ báo tải (loading indicators)
 **Kết quả:** Ứng dụng đọc tin tức dựa trên API thời gian thực.
 
+<p align="center">
+  <img src="image/p3.png" width="400"/>
+</p>
 ---
 
 ### 💬 Dự án 4: Clone Giao diện Chat
@@ -46,6 +52,10 @@
 * Giao diện bong bóng tin nhắn động
 **Kết quả:** Giao diện chat mô phỏng (mock) hoạt động.
 
+<p align="center">
+  <img src="image/p4.1.png" width="400"/>
+  <img src="image/p4.2.png" width="400"/>
+</p>
 ---
 
 ### 🎨 Dự án 5: Ứng dụng Ghi chú (Provider State)
@@ -56,6 +66,9 @@
 * `TextField`, `FloatingActionButton`
 **Kết quả:** Ứng dụng ghi chú đáp ứng với cập nhật trực tiếp.
 
+<p align="center">
+  <img src="image/p5.png" width="400"/>
+</p>
 ---
 
 ## 🗓 Tuần 8 – Networking, Persistence & Integration
@@ -68,6 +81,9 @@
 * `FutureBuilder`, phân tích JSON
 **Kết quả:** Ứng dụng dự báo thời tiết thời gian thực.
 
+<p align="center">
+  <img src="image/p6.png" width="400"/>
+</p>
 ---
 
 ### 💾 Dự án 7: Ứng dụng Theo dõi chi tiêu (Lưu trữ cục bộ)
@@ -78,6 +94,9 @@
 * `fl_chart` cho biểu đồ
 **Kết quả:** Ứng dụng quản lý chi tiêu ngoại tuyến với thống kê.
 
+<p align="center">
+  <img src="image/p7.png" width="400"/>
+</p>
 ---
 
 ### 📸 Dự án 8: Ứng dụng Thư viện ảnh
@@ -88,6 +107,9 @@
 * `GridView`, tùy chọn lưu trữ cục bộ
 **Kết quả:** Ứng dụng thư viện ảnh đơn giản.
 
+<p align="center">
+  <img src="image/p8.png" width="400"/>
+</p>
 ---
 
 ### 🔔 Dự án 9: Ứng dụng Nhắc nhở (Thông báo)
@@ -98,6 +120,9 @@
 * `DateTimePicker`, trình kích hoạt nền không đồng bộ (async)
 **Kết quả:** Ứng dụng nhắc nhở hoạt động với thông báo.
 
+<p align="center">
+  <img src="image/p9.png" width="400"/>
+</p>
 ---
 
 ### ☁️ Dự án 10: Ứng dụng Đăng nhập Firebase
@@ -107,3 +132,20 @@
 * `firebase_core`, `firebase_auth`
 * `StreamBuilder` cho trạng thái xác thực (auth state)
 **Kết quả:** Ứng dụng đăng nhập dựa trên Firebase.
+
+<p align="center">
+  <img src="image/p10.1.png" width="400"/>
+  <img src="image/p10.2.png" width="400"/>
+</p>
+---
+
+### Dự án I am rich
+<p align="center">
+  <img src="image/iamrich.png" width="400"/>
+</p>
+---
+
+### Dự án MI card
+<p align="center">
+  <img src="image/micard.png" width="400"/>
+</p>
